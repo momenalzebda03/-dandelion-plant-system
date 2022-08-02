@@ -1,0 +1,213 @@
+@media (min-width: 1155px) and (max-width: 1514px) {
+
+.colorblue {
+    background-color: rgba(0, 0, 255, 0.674);
+    height: 60px;
+    width: 100%;
+    margin-top: 0%;
+}
+
+.thisisimg {width: 4%;border-radius: 40%;margin-top: 0%;}
+
+.thisisimg:hover {transform: rotate(360deg);transition: 2s;}
+
+.a:hover {text-decoration: none;}
+
+.startdiv {display: flex;margin-top: -5.4%;margin-left: 20%;}
+
+.Homepage {padding-top: 7%;color: black;margin-left: 80px;}
+
+.Homepage:hover {
+    color: white;
+    background-color: red;
+    height: 60px;
+    padding-top: 7%;
+}
+
+.Homepage-hover-1 {
+    color: white;
+    background-color: red;
+    height: 60px;
+    padding-top: 7%;
+}
+
+.div-stop3 {
+    background-color: rgba(0, 0, 255, 0.674);
+    height: 60px;
+    width: 106%;
+    margin-top: 15.9%;
+    margin-left: -6%;
+}
+.stop-div {display: flex;margin-top: 3.7%;margin-left: 0%;}
+
+.stop-h3 {color: black;margin-left: 150px;}
+
+.stop-h3:hover {color: blue;}
+
+.end-div {background-color: black;width: 100%;height: 20px;}
+
+.Copyrights {color: rgba(255, 255, 255, 0.614);text-align: center;}
+
+.img-Copyrights2 {
+    width: 1.5%;
+    border-radius: 50%;
+    position: absolute;
+    left: 44%;
+    top: 95.2%;
+}
+
+.div-img {
+    display: flex;
+    height: 300px;
+    margin-top: 8%;
+    margin-left: -10%;
+}
+
+.gas-img {margin-left: 10%;border: 2.3px solid red; width: 31%;}
+
+.body1 {background-color: orange;}
+}
+
+@media (min-width: 770px) and (max-width: 1155px) {
+
+    .colorblue {
+        background-color: rgba(0, 0, 255, 0.674);
+        height: 60px;
+        width: 100%;
+        margin-top: 0%;
+        display: none;
+    }
+    
+    .thisisimg {width: 4%;border-radius: 40%;margin-top: 0%;}
+    
+    .thisisimg:hover {transform: rotate(360deg);transition: 2s;}
+    
+    .a:hover {text-decoration: none;}
+    
+    .startdiv {display: flex;margin-top: -5.4%;margin-left: 20%;}
+    
+    .Homepage {padding-top: 7%;color: black;margin-left: 80px;}
+    
+    .Homepage:hover {
+        color: white;
+        background-color: red;
+        height: 60px;
+        padding-top: 7%;
+    }
+    
+    .Homepage-hover-1 {
+        color: white;
+        background-color: red;
+        height: 60px;
+        padding-top: 7%;
+    }
+    
+    .div-stop3 {
+        background-color: rgba(0, 0, 255, 0.674);
+        height: 60px;
+        width: 106%;
+        margin-top: 15.9%;
+        margin-left: -6%;
+        display: none;
+    }
+    .stop-div {display: flex;margin-top: 3.7%;margin-left: 0%;}
+    
+    .stop-h3 {color: black;margin-left: 150px;}
+    
+    .stop-h3:hover {color: blue;}
+    
+    .end-div {background-color: black;width: 100%;height: 20px;}
+    
+    .Copyrights {color: rgba(255, 255, 255, 0.614);text-align: center;margin-top: 40%;}
+    
+    .img-Copyrights2 {
+        width: 2%;
+        border-radius: 50%;
+        position: absolute;
+        left: 41%;
+        top: 93.2%;
+    }
+    
+    .div-img {
+        display: flex;
+        height: 300px;
+        margin-top: 8%;
+        margin-left: -10%;
+    }
+    
+    .gas-img {margin-left: 10%;border: 2.3px solid red; width: 24%;}
+    
+    .body1 {background-color: orange;}
+    }
+
+    @media (min-width: 380px) and (max-width: 770px) {
+
+        .colorblue {
+            background-color: rgba(0, 0, 255, 0.674);
+            height: 60px;
+            width: 100%;
+            margin-top: 0%;
+            display: none;
+        }
+        
+        .thisisimg {width: 4%;border-radius: 40%;margin-top: 0%;}
+        
+        .thisisimg:hover {transform: rotate(360deg);transition: 2s;}
+        
+        .a:hover {text-decoration: none;}
+        
+        .startdiv {display: flex;margin-top: -5.4%;margin-left: 20%;}
+        
+        .Homepage {padding-top: 7%;color: black;margin-left: 80px;}
+        
+        .Homepage:hover {
+            color: white;
+            background-color: red;
+            height: 60px;
+            padding-top: 7%;
+        }
+        
+        .Homepage-hover-1 {
+            color: white;
+            background-color: red;
+            height: 60px;
+            padding-top: 7%;
+        }
+        
+        .div-stop3 {
+            background-color: rgba(0, 0, 255, 0.674);
+            height: 60px;
+            width: 106%;
+            margin-top: 15.9%;
+            margin-left: -6%;
+            display: none;
+        }
+        .stop-div {display: flex;margin-top: 3.7%;margin-left: 0%;}
+        
+        .stop-h3 {color: black;margin-left: 150px;}
+        
+        .stop-h3:hover {color: blue;}
+        
+        .end-div {background-color: black;width: 100%;height: 20px;}
+        
+        .Copyrights {color: rgba(255, 255, 255, 0.614);text-align: center;margin-top: 70%;}
+        
+        .img-Copyrights2 {
+            width: 2.5%;
+            border-radius: 50%;
+            position: absolute;
+            left: 37%;
+            top: 94.5%;
+        }
+        
+        .div-img {
+            display: flex;
+            height: 300px;
+            margin-top: 8%;
+            margin-left: -10%;
+        }
+        
+        .gas-img {margin-left: 10%;border: 2.3px solid red; width: 23%;}
+        
+        .body1 {background-color: orange;}
+        }

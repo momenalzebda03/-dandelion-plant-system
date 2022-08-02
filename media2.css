@@ -1,0 +1,187 @@
+@media (min-width: 1155px) and (max-width: 1514px) {
+
+.colorblue {
+    background-color: rgba(0, 0, 255, 0.674);
+    height: 60px;
+    width: 100%;
+    margin-top: 0%;
+}
+
+.thisisimg {width: 4%;border-radius: 40%;margin-top: -0.4%;}
+
+.thisisimg:hover {transform: rotate(360deg);transition: 2s;}
+
+.a:hover {text-decoration: none;}
+
+.startdiv {display: flex;margin-top: -5%;margin-left: 20%;}
+
+.Homepage {padding-top: 7%;color: black;margin-left: 80px;}
+
+.Homepage:hover {
+    color: white;
+    background-color: red;
+    height: 60px;
+    padding-top: 7%;
+}
+
+.Homepage-hover-1 {
+    color: white;
+    background-color: red;
+    height: 60px;
+    padding-top: 7%;
+}
+
+.div-stop2 {
+    background-color: rgba(0, 0, 255, 0.674);
+    height: 60px;
+    width: 110%;
+    margin-top: 13.5%;
+    margin-left: -10%;
+}
+
+.stop-h3 {color: black;margin-left: 150px;}
+
+.stop-h3:hover {color: blue;}
+
+.end-div {background-color: black;width: 100%;height: 20px;}
+
+.Copyrights {color: rgba(255, 255, 255, 0.614);text-align: center;}
+
+.img-Copyrights2 {
+    width: 1%;
+    border-radius: 50%;
+    position: absolute;
+    left: 45.2%;
+    top: 97.5%;
+}
+
+.body {background-color: aquamarine;}
+
+.div-login-form {
+    background-color: cornflowerblue;
+    height: 70px;
+    width: 25%;
+    margin-top: 10%;
+    margin-left: 38%;
+    border-radius: 18% 18% 0% 0%;
+}
+
+.login-form {text-align: center;padding-top: 4%;}
+
+.div-whit {
+    background-color: white;
+    height: 240px;
+    width: 25%;
+    margin-left: 38%;
+    border-radius: 0px 0px 15px 15px;
+}
+
+.form-input {padding-top: 15%;padding-left: 3%;width: 80%;}
+
+.number {width: 120%;}
+
+.password {width: 120%;}
+
+.submit {
+    margin-top: 1%;
+    width: 120%;
+    background-color: aqua;
+    border-radius: 10%;
+}
+}
+
+@media (min-width: 380px) and (max-width: 1155px) {
+
+    .colorblue {
+        background-color: rgba(0, 0, 255, 0.674);
+        height: 60px;
+        width: 100%;
+        margin-top: 0%;
+        display: none;
+    }
+    
+    .thisisimg {width: 4%;border-radius: 40%;margin-top: -0.4%;}
+    
+    .thisisimg:hover {transform: rotate(360deg);transition: 2s;}
+    
+    .a:hover {text-decoration: none;}
+    
+    .startdiv {display: flex;margin-top: -5%;margin-left: 20%;}
+    
+    .Homepage {padding-top: 7%;color: black;margin-left: 80px;}
+    
+    .Homepage:hover {
+        color: white;
+        background-color: red;
+        height: 60px;
+        padding-top: 7%;
+    }
+    
+    .Homepage-hover-1 {
+        color: white;
+        background-color: red;
+        height: 60px;
+        padding-top: 7%;
+    }
+    
+    .div-stop2 {
+        background-color: rgba(0, 0, 255, 0.674);
+        height: 60px;
+        width: 110%;
+        margin-top: 13.5%;
+        margin-left: -10%;
+        display: none;
+    }
+    
+    .stop-h3 {color: black;margin-left: 150px;}
+    
+    .stop-h3:hover {color: blue;}
+    
+    .end-div {background-color: black;width: 100%;height: 20px; display: none;}
+    
+    .Copyrights {color: rgba(255, 255, 255, 0.614);text-align: center;}
+    
+    .img-Copyrights2 {
+        width: 1%;
+        border-radius: 50%;
+        position: absolute;
+        left: 45.2%;
+        top: 97.5%;
+    }
+    
+    .body {background-color: aquamarine;}
+    
+    .div-login-form {
+        background-color: cornflowerblue;
+        height: 70px;
+        width: 25%;
+        margin-top: 10%;
+        margin-left: 38%;
+        border-radius: 18% 18% 0% 0%;
+    }
+    
+    .login-form {text-align: center;padding-top: 4%;}
+    
+    .div-whit {
+        background-color: white;
+        height: 240px;
+        width: 25%;
+        margin-left: 38%;
+        border-radius: 0px 0px 15px 15px;
+    }
+    
+    .form-input {padding-top: 15%;padding-left: 3%;width: 80%;}
+    
+    .number {width: 120%;}
+    
+    .password {width: 120%;}
+    
+    .submit {
+        margin-top: 1%;
+        width: 120%;
+        background-color: aqua;
+        border-radius: 10%;
+    }
+    
+    p{background-color: red;}
+    }
